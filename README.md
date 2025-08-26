@@ -1,4 +1,4 @@
-# kaggle practice
+# Kaggle Practice
 -------------------------------------------------
 # [Kaggle]Telco Customer Churn
 -------------------------------------------------
@@ -26,6 +26,6 @@ Customer churn is a critical metric because it is much less expensive to retain 
 -------------------------------------------------
 # [Kaggle]Bicycle Sharing Demand
 -------------------------------------------------
-## Bicycle Sharing Demand
+## Bike Sharing Demand
 ✔️ **Regression/Time Series**
 
