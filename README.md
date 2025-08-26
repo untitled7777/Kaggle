@@ -1,8 +1,8 @@
-# DATA SCIENTIST CODING TEST PRACTIE
+# kaggle practice
 -------------------------------------------------
-# Week1
+# [Kaggle]Telco Customer Churn
 -------------------------------------------------
-## [Kaggle]Telco Customer Churn
+## Telco Customer Churn
 ✔️ **Classification**
 
 ✔️ **Dataset includes information about:**
@@ -24,8 +24,8 @@ telecommunications business has an annual churn rate of 15-25%(competitive marke
 Customer churn is a critical metric because it is much less expensive to retain existing customers than it is to acquire new customers.
 
 -------------------------------------------------
-# Week2
+# [Kaggle]Bicycle Sharing Demand
 -------------------------------------------------
-## [Kaggle]Telco Customer Churn
+## Bicycle Sharing Demand
 ✔️ **Regression/Time Series**
 
